@@ -14,4 +14,10 @@
 
 此仓库包含与网易云上述滚动功能近似的实现, 且滚动体验要更好.
 
+
+
+https://github.com/user-attachments/assets/6a36d297-974a-4aeb-ad06-3a792aaec7b1
+
+
+
 > bilibili 视频 https://www.bilibili.com/video/BV15ufYBaE49/
